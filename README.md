@@ -1,4 +1,4 @@
-# getcourse
+# gitcourse
 my first git couse
 
 
